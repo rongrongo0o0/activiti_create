@@ -173,6 +173,7 @@
 		<module>activiti-02</module>
 		<module>activiti-04</module>
     <module>activiti-05</module>
+    <module>activiti-06</module>
   </modules>
 
 </project>
