@@ -27,5 +27,6 @@
     <module>activiti-06-6.1</module>
     <module>activiti-06-6.2</module>
     <module>activiti-06-6.3</module>
+    <module>activiti-06-6.4</module>
   </modules>
 </project>
