@@ -36,7 +36,7 @@ public class CadidateQuery {
 		// 根据流程定义查询用户组数据
 		List<Group> groupList = identityService.createGroupQuery().potentialStarter(processDefinition.getId()).list();
 		for (Group group : groupList) {
-			System.out.println("具有流程定义权限的group" + group.getName());
+			System.out.println("具有流程定义权限的group：" + group.getName());
 		}
 		// 根据用户查询具有权限的流程定义
 		List<ProcessDefinition> defList = repositoryService.createProcessDefinitionQuery()
