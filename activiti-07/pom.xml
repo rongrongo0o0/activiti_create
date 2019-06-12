@@ -27,5 +27,6 @@
   	<module>activiti-07-7.1</module>
     <module>activiti-07-7.2</module>
     <module>activiti-07-7.3</module>
+    <module>activiti-07-7.4</module>
   </modules>
 </project>
