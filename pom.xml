@@ -175,6 +175,7 @@
     <module>activiti-05</module>
     <module>activiti-06</module>
     <module>activiti-07</module>
+    <module>activiti-08</module>
   </modules>
 
 </project>
