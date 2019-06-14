@@ -40,5 +40,6 @@ public class LocalVariable {
 		// 查询variable
 		System.out.println(taskService.getVariable(task.getId(), "days"));
 		System.out.println(taskService.getVariable(task.getId(), "target"));
+		System.out.println(taskService.getVariableLocal(task.getId(), "days"));
 	}
 }
